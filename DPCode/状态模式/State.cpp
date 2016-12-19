@@ -11,6 +11,7 @@ void State::OperationInterface(Context* con){
     cout<<"State::.."<<endl;
 }
 bool State::ChangeState(Context* con,State* st){
+	cout << "State::ChangeState" << endl;
     con->ChangeState(st);
     return true;
 }
