@@ -1,4 +1,4 @@
-﻿生成启动时间为 12/27/2016 10:35:35 AM。
+﻿生成启动时间为 12/27/2016 11:12:13 AM。
      1>项目“D:\Desktop\DesignPattern\DesignPatternPro\建造者模式\建造者模式.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\DPCode\建造者模式\buildsample.cpp"
@@ -10,4 +10,4 @@
 
 生成成功。
 
-已用时间 00:00:00.95
+已用时间 00:00:00.98
