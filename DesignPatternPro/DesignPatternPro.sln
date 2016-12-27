@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "适配器模式", "适配�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "命令模式", "命令模式\命令模式.vcxproj", "{66AFECBD-EB64-4021-A389-FCB637972281}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "原型模式", "原型模式\原型模式.vcxproj", "{C82580DA-FB8E-4DCC-A1D3-5D6DA66D46B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建造者模式", "建造者模式\建造者模式.vcxproj", "{04499F93-3C85-4A38-925A-91A53B2E0C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +49,14 @@ Global
 		{66AFECBD-EB64-4021-A389-FCB637972281}.Debug|Win32.Build.0 = Debug|Win32
 		{66AFECBD-EB64-4021-A389-FCB637972281}.Release|Win32.ActiveCfg = Release|Win32
 		{66AFECBD-EB64-4021-A389-FCB637972281}.Release|Win32.Build.0 = Release|Win32
+		{C82580DA-FB8E-4DCC-A1D3-5D6DA66D46B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C82580DA-FB8E-4DCC-A1D3-5D6DA66D46B7}.Debug|Win32.Build.0 = Debug|Win32
+		{C82580DA-FB8E-4DCC-A1D3-5D6DA66D46B7}.Release|Win32.ActiveCfg = Release|Win32
+		{C82580DA-FB8E-4DCC-A1D3-5D6DA66D46B7}.Release|Win32.Build.0 = Release|Win32
+		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Debug|Win32.Build.0 = Debug|Win32
+		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Release|Win32.ActiveCfg = Release|Win32
+		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
