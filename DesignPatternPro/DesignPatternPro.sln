@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "原型模式", "原型模�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建造者模式", "建造者模式\建造者模式.vcxproj", "{04499F93-3C85-4A38-925A-91A53B2E0C07}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "访问者模式", "访问者模式\访问者模式.vcxproj", "{98250733-0B94-4ECA-A3BD-58BC5FBF8B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Debug|Win32.Build.0 = Debug|Win32
 		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Release|Win32.ActiveCfg = Release|Win32
 		{04499F93-3C85-4A38-925A-91A53B2E0C07}.Release|Win32.Build.0 = Release|Win32
+		{98250733-0B94-4ECA-A3BD-58BC5FBF8B87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98250733-0B94-4ECA-A3BD-58BC5FBF8B87}.Debug|Win32.Build.0 = Debug|Win32
+		{98250733-0B94-4ECA-A3BD-58BC5FBF8B87}.Release|Win32.ActiveCfg = Release|Win32
+		{98250733-0B94-4ECA-A3BD-58BC5FBF8B87}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
